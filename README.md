@@ -16,7 +16,7 @@ Ensure you have `rdkit` installed. You can install it using the following comman
    - **warnings**: To suppress unnecessary warnings.
 
 ### 2. **Loading the Dataset**
-   - The dataset (`PDE4AKI.csv`) is loaded using `pandas`. It is expected to contain at least one column with SMILES strings of molecules.
+   - The dataset (`PDE4AKI.csv`) is loaded using `pandas`. 
 
 ### 3. **Generating Molecular Objects**
    - SMILES strings are converted into RDKit molecular objects using `Chem.MolFromSmiles()`.
