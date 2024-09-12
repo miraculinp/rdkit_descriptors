@@ -1,7 +1,5 @@
 # RDKit Molecular Descriptor Calculation - README
 
-This script demonstrates how to calculate molecular descriptors using RDKit, a powerful cheminformatics toolkit. The code takes SMILES strings from a CSV file, generates molecular objects, and computes various molecular descriptors for each molecule.
-
 ## Prerequisites
 
 Ensure you have `rdkit` installed. You can install it using the following command:
