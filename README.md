@@ -8,7 +8,7 @@ Ensure you have `rdkit` installed. You can install it using the following comman
 !pip install rdkit
 ```
 
-## Script Overview
+## Overview
 
 ### 1. **Importing Required Libraries**
    - **pandas**: For data handling.
